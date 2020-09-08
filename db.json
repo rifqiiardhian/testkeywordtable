@@ -1,66 +1,115 @@
 {
-    "meta": {
-        "page": 1,
-        "pages": 1,
-        "perpage": -1,
-        "total": 350,
-        "sort": "asc",
-        "field": "RecordID"
-    },
-    "data": [
+    "data": 
+    [
         {
-            "RecordID": 1,
-            "Keyword": "Resep Kue Kering Lebaran",
-            "Ranking": null,
-            "SearchVolume": 1,
-            "URL": "https://kulinerkota.com/resep-kue..",
-            "GraphicCollapse": null,
-            "Actions": null
+            "id": 1,
+            "keyword": "resep kue kering lebaran",
+            "keywordDetail": "June 20, 2020 - 14.00",
+            "searchVolume": 12450,
+            "url": "https://kulinerkota.com/resep-kue-lebaran",
+            "urlIndicator": "bad",
+            "ranking": 2,
+            "desktopView": true,
+            "mobileView": false,
+            "tabletView": false,
+            "amp": true,
+            "pwa": false,
+            "serpFeature": [
+                { "id": 1, "name": "app" },
+                { "id": 2, "name": "carousel" },
+                { "id": 3, "name": "people_also_search" }
+            ],
+            "createdOn": "June 20, 2020",
+            "lang": "ID",
+            "cpc": "0,345"
         },
         {
-            "RecordID": 2,
-            "Keyword": "Masakan Buka Puasa",
-            "Ranking": 8686,
-            "SearchVolume": 1,
-            "URL": "https://kurma-manager.web.app",
-            "GraphicCollapse": null,
-            "Actions": null
+            "id": 2,
+            "keyword": "resep kue basah lebaran",
+            "keywordDetail": "June 20, 2020 - 12.00",
+            "searchVolume": 11450,
+            "url": "https://kulinerkota.com/resep-kue-lebaran",
+            "urlIndicator": "medium",
+            "ranking": 2,
+            "desktopView": false,
+            "mobileView": true,
+            "tabletView": true,
+            "amp": false,
+            "pwa": false,
+            "serpFeature": [
+                { "id": 1, "name": "app" },
+                { "id": 2, "name": "carousel" },
+                { "id": 3, "name": "people_also_search" }
+            ],
+            "createdOn": "June 20, 2020",
+            "lang": "EN",
+            "cpc": "0,345"
         },
         {
-            "RecordID": 3,
-            "Keyword": "Oleh - Oleh Khas Bontang",
-            "Ranking": 8686,
-            "SearchVolume": 2,
-            "URL": "https://kurma-manager.web.app",
-            "GraphicCollapse": null,
-            "Actions": null
+            "id": 3,
+            "keyword": "resep ayam opor lebaran",
+            "keywordDetail": "June 20, 2020 - 14.00",
+            "searchVolume": 14450,
+            "url": "https://kulinerkota.com/resep-kue-lebaran",
+            "urlIndicator": "good",
+            "ranking": 2,
+            "desktopView": true,
+            "mobileView": true,
+            "tabletView": false,
+            "amp": true,
+            "pwa": true,
+            "serpFeature": [
+                { "id": 1, "name": "app" },
+                { "id": 2, "name": "carousel" },
+                { "id": 3, "name": "people_also_search" }
+            ],
+            "createdOn": "June 20, 2020",
+            "lang": "ID",
+            "cpc": "0,345"
         },
         {
-            "RecordID": 4,
-            "Keyword": "Masakan Lebaran",
-            "Ranking": 8686,
-            "SearchVolume": 2,
-            "URL": "https://kurma-manager.web.app",
-            "GraphicCollapse": null,
-            "Actions": null
+            "id": 4,
+            "keyword": "resep kue kering lebaran",
+            "keywordDetail": "June 20, 2020 - 14.00",
+            "searchVolume": 12450,
+            "url": "https://kulinerkota.com/resep-kue-lebaran",
+            "urlIndicator": "bad",
+            "ranking": 2,
+            "desktopView": false,
+            "mobileView": false,
+            "tabletView": true,
+            "amp": false,
+            "pwa": true,
+            "serpFeature": [
+                { "id": 1, "name": "app" },
+                { "id": 2, "name": "carousel" },
+                { "id": 3, "name": "people_also_search" }
+            ],
+            "createdOn": "June 20, 2020",
+            "lang": "ID",
+            "cpc": "0,345"
         },
         {
-            "RecordID": 5,
-            "Keyword": "Oleh - Oleh Khas Tarakan",
-            "Ranking": 8686,
-            "SearchVolume": 4,
-            "URL": "https://kurma-manager.web.app",
-            "GraphicCollapse": null,
-            "Actions": null
-        },
-        {
-            "RecordID": 6,
-            "Keyword": "Masakan Khas Tarakan",
-            "Ranking": 8686,
-            "SearchVolume": 4,
-            "URL": "https://kurma-manager.web.app",
-            "GraphicCollapse": null,
-            "Actions": null
+            "id": 5,
+            "keyword": "resep kue kering lebaran",
+            "keywordDetail": "June 20, 2020 - 14.00",
+            "searchVolume": 12450,
+            "url": "https://kulinerkota.com/resep-kue-lebaran",
+            "urlIndicator": "very good",
+            "ranking": 2,
+            "desktopView": true,
+            "mobileView": false,
+            "tabletView": false,
+            "amp": false,
+            "pwa": false,
+            "serpFeature": [
+                { "id": 1, "name": "app" },
+                { "id": 2, "name": "carousel" },
+                { "id": 3, "name": "people_also_search" }
+            ],
+            "createdOn": "June 20, 2020",
+            "lang": "ID",
+            "cpc": "0,345"
         }
     ]
 }
