@@ -11,7 +11,7 @@
             "ranking": 2,
             "desktopView": true,
             "mobileView": false,
-            "tabletView": false,
+            "responsiveView": false,
             "amp": true,
             "pwa": false,
             "serpFeature": [
@@ -32,8 +32,8 @@
             "urlIndicator": "medium",
             "ranking": 2,
             "desktopView": false,
-            "mobileView": true,
-            "tabletView": true,
+            "mobileView": false,
+            "responsiveView": true,
             "amp": false,
             "pwa": false,
             "serpFeature": [
@@ -53,9 +53,9 @@
             "url": "https://kulinerkota.com/resep-kue-lebaran",
             "urlIndicator": "good",
             "ranking": 2,
-            "desktopView": true,
+            "desktopView": false,
             "mobileView": true,
-            "tabletView": false,
+            "responsiveView": false,
             "amp": true,
             "pwa": true,
             "serpFeature": [
@@ -77,7 +77,7 @@
             "ranking": 2,
             "desktopView": false,
             "mobileView": false,
-            "tabletView": true,
+            "responsiveView": true,
             "amp": false,
             "pwa": true,
             "serpFeature": [
@@ -99,7 +99,7 @@
             "ranking": 2,
             "desktopView": true,
             "mobileView": false,
-            "tabletView": false,
+            "responsiveView": false,
             "amp": false,
             "pwa": false,
             "serpFeature": [
@@ -121,7 +121,7 @@
             "ranking": 2,
             "desktopView": true,
             "mobileView": false,
-            "tabletView": false,
+            "responsiveView": false,
             "amp": true,
             "pwa": false,
             "serpFeature": [
@@ -143,7 +143,7 @@
             "ranking": 2,
             "desktopView": false,
             "mobileView": true,
-            "tabletView": true,
+            "responsiveView": false,
             "amp": false,
             "pwa": false,
             "serpFeature": [
@@ -163,9 +163,9 @@
             "url": "https://kulinerkota.com/resep-kue-lebaran",
             "urlIndicator": "good",
             "ranking": 2,
-            "desktopView": true,
-            "mobileView": true,
-            "tabletView": false,
+            "desktopView": false,
+            "mobileView": false,
+            "responsiveView": true,
             "amp": true,
             "pwa": true,
             "serpFeature": [
@@ -187,7 +187,7 @@
             "ranking": 2,
             "desktopView": false,
             "mobileView": false,
-            "tabletView": true,
+            "responsiveView": true,
             "amp": false,
             "pwa": true,
             "serpFeature": [
@@ -209,7 +209,7 @@
             "ranking": 2,
             "desktopView": true,
             "mobileView": false,
-            "tabletView": false,
+            "responsiveView": false,
             "amp": false,
             "pwa": false,
             "serpFeature": [
