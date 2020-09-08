@@ -110,6 +110,116 @@
             "createdOn": "June 20, 2020",
             "lang": "ID",
             "cpc": "0,345"
+        },
+        {
+            "id": 6,
+            "keyword": "resep kue kering lebaran",
+            "keywordDetail": "June 20, 2020 - 14.00",
+            "searchVolume": 12450,
+            "url": "https://kulinerkota.com/resep-kue-lebaran",
+            "urlIndicator": "bad",
+            "ranking": 2,
+            "desktopView": true,
+            "mobileView": false,
+            "tabletView": false,
+            "amp": true,
+            "pwa": false,
+            "serpFeature": [
+                { "id": 1, "name": "app" },
+                { "id": 2, "name": "carousel" },
+                { "id": 3, "name": "people_also_search" }
+            ],
+            "createdOn": "June 20, 2020",
+            "lang": "ID",
+            "cpc": "0,345"
+        },
+        {
+            "id": 7,
+            "keyword": "resep kue basah lebaran",
+            "keywordDetail": "June 20, 2020 - 12.00",
+            "searchVolume": 11450,
+            "url": "https://kulinerkota.com/resep-kue-lebaran",
+            "urlIndicator": "medium",
+            "ranking": 2,
+            "desktopView": false,
+            "mobileView": true,
+            "tabletView": true,
+            "amp": false,
+            "pwa": false,
+            "serpFeature": [
+                { "id": 1, "name": "app" },
+                { "id": 2, "name": "carousel" },
+                { "id": 3, "name": "people_also_search" }
+            ],
+            "createdOn": "June 20, 2020",
+            "lang": "EN",
+            "cpc": "0,345"
+        },
+        {
+            "id": 8,
+            "keyword": "resep ayam opor lebaran",
+            "keywordDetail": "June 20, 2020 - 14.00",
+            "searchVolume": 14450,
+            "url": "https://kulinerkota.com/resep-kue-lebaran",
+            "urlIndicator": "good",
+            "ranking": 2,
+            "desktopView": true,
+            "mobileView": true,
+            "tabletView": false,
+            "amp": true,
+            "pwa": true,
+            "serpFeature": [
+                { "id": 1, "name": "app" },
+                { "id": 2, "name": "carousel" },
+                { "id": 3, "name": "people_also_search" }
+            ],
+            "createdOn": "June 20, 2020",
+            "lang": "ID",
+            "cpc": "0,345"
+        },
+        {
+            "id": 9,
+            "keyword": "resep kue kering lebaran",
+            "keywordDetail": "June 20, 2020 - 14.00",
+            "searchVolume": 12450,
+            "url": "https://kulinerkota.com/resep-kue-lebaran",
+            "urlIndicator": "bad",
+            "ranking": 2,
+            "desktopView": false,
+            "mobileView": false,
+            "tabletView": true,
+            "amp": false,
+            "pwa": true,
+            "serpFeature": [
+                { "id": 1, "name": "app" },
+                { "id": 2, "name": "carousel" },
+                { "id": 3, "name": "people_also_search" }
+            ],
+            "createdOn": "June 20, 2020",
+            "lang": "ID",
+            "cpc": "0,345"
+        },
+        {
+            "id": 10,
+            "keyword": "resep kue kering lebaran",
+            "keywordDetail": "June 20, 2020 - 14.00",
+            "searchVolume": 12450,
+            "url": "https://kulinerkota.com/resep-kue-lebaran",
+            "urlIndicator": "very good",
+            "ranking": 2,
+            "desktopView": true,
+            "mobileView": false,
+            "tabletView": false,
+            "amp": false,
+            "pwa": false,
+            "serpFeature": [
+                { "id": 1, "name": "app" },
+                { "id": 2, "name": "carousel" },
+                { "id": 3, "name": "people_also_search" }
+            ],
+            "createdOn": "June 20, 2020",
+            "lang": "ID",
+            "cpc": "0,345"
         }
     ]
 }
